@@ -1,0 +1,23 @@
+{
+  "name": "projeto-playwright-e2e-e-commerce",
+  "version": "1.0.0",
+  "description": "PROJETO DE AUTOMAÇÃO UTILIZANDO PLAYWRIGHT",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleycicote-QA/Projeto-Playwright-e2e-e-commerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wesleycicote-QA/Projeto-Playwright-e2e-e-commerce/issues"
+  },
+  "homepage": "https://github.com/wesleycicote-QA/Projeto-Playwright-e2e-e-commerce#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
